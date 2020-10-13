@@ -1,16 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.12)  13 OCT 2020 14:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.12)  13 OCT 2020 15:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/LaTeX_VSCode/figures/main.tex
-(c:/LaTeX_VSCode/figures/main.tex
+**c:/LaTeX_VSCode/rus_lang/main.tex
+(c:/LaTeX_VSCode/rus_lang/main.tex
 LaTeX2e <2020-10-01> patch level 1
 L3 programming layer <2020-10-05> xparse <2020-03-03> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(c:/texlive/2020/texmf-dist/tex/latex/base/leqno.clo
-File: leqno.clo 2016/12/29 v1.2b Standard LaTeX option (left equation numbers)
-) (c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+(c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count175
@@ -267,7 +265,9 @@ File: russianb.ldf 2020/09/09 1.3k Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
 Package babel Info: Making " an active character on input line 120.
 Package babel Info: Default for \cyrdash is provided on input line 157.
-)) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+)) (c:/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip49
 
@@ -659,8 +659,8 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (c:/texlive/2020/texmf-dist/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
 ))
-Package hyperref Info: Option `unicode' set `true' on input line 102.
-Package hyperref Info: Option `colorlinks' set `true' on input line 102.
+Package hyperref Info: Option `unicode' set `true' on input line 106.
+Package hyperref Info: Option `colorlinks' set `true' on input line 106.
  (c:/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
 \csq@reset=\count298
@@ -975,30 +975,30 @@ Package csquotes Info: Redefining alias 'default' -> 'russian'.
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count342
 \l__pdf_internal_box=\box115
-) (c:/LaTeX_VSCode/figures/main.aux)
+) (c:/LaTeX_VSCode/rus_lang/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Info: Redefining \th on input line 118.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Info: Redefining \th on input line 122.
  (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count343
@@ -1054,8 +1054,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 118.
-Package hyperref Info: Link coloring ON on input line 118.
+(lastpage)             ! on input line 122.
+Package hyperref Info: Link coloring ON on input line 122.
 (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1065,129 +1065,113 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count349
 )
-LaTeX Info: Redefining \ref on input line 118.
-LaTeX Info: Redefining \pageref on input line 118.
-LaTeX Info: Redefining \nameref on input line 118.
- (c:/LaTeX_VSCode/figures/main.out) (c:/LaTeX_VSCode/figures/main.out)
+LaTeX Info: Redefining \ref on input line 122.
+LaTeX Info: Redefining \pageref on input line 122.
+LaTeX Info: Redefining \nameref on input line 122.
+ (c:/LaTeX_VSCode/rus_lang/main.out) (c:/LaTeX_VSCode/rus_lang/main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into your preamble.
- on input line 118.
+ on input line 122.
 
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 129.
+(Font)              using `T2A/cmr/m/n' instead on input line 125.
 
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 129.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 125.
 (c:/texlive/2020/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 129.
+(Font)              using `OML/cmr/m/it' instead on input line 125.
 
-LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 129.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 129.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 129.
+LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <20.74> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 125.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <14.4> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 125.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 125.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 125.
 (c:/texlive/2020/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 129.
+(Font)              using `OMS/cmr/m/n' instead on input line 125.
 
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 129.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 129.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 129.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <20.74> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 125.
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 129.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 125.
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 129.
-LaTeX Font Info:    No file PD1cmr.fd. on input line 129.
+LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 125.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 125.
 
 
 LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 129.
+(Font)              using `PD1/pdf/m/n' instead on input line 125.
 
-LaTeX Font Info:    Trying to load font information for PU+cmr on input line 129.
-LaTeX Font Info:    No file PUcmr.fd. on input line 129.
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 125.
+LaTeX Font Info:    No file PUcmr.fd. on input line 125.
 
 LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 129.
+(Font)              using `PU/pdf/m/n' instead on input line 125.
 
-(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 158.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 158.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 158.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 158.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 158.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 158.
-Package pgfplots info on input line 172: Overriding colorspace to rgb due to xcolor configuration.
-PGFPlots: reading {data.dat}
-
-Overfull \hbox (9.98344pt too wide) in paragraph at lines 184--185
-[][] 
- []
-
-(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
- (c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
-File: pgflibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-\arrowsize=\dimen335
-))
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 190.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 190.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 190.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 190.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 159.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 159.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
+[1
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] 
 AED: lastpage setting LastPage
-[2] (c:/LaTeX_VSCode/figures/main.aux)
+[2] (c:/LaTeX_VSCode/rus_lang/main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 05C020F1968558342FCC2C4D4F4C30AB;290.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 36999 strings out of 479917
- 836608 string characters out of 5886664
- 1273716 words of memory out of 5000000
- 52886 multiletter control sequences out of 15000+600000
- 548061 words of font info for 67 fonts, out of 8000000 for 9000
+ 35661 strings out of 479917
+ 801739 string characters out of 5886664
+ 1221268 words of memory out of 5000000
+ 51541 multiletter control sequences out of 15000+600000
+ 555212 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,9n,105p,750b,1884s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on c:/LaTeX_VSCode/figures/main.pdf (2 pages, 113970 bytes).
+ 77i,10n,105p,751b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on c:/LaTeX_VSCode/rus_lang/main.pdf (2 pages, 136898 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
